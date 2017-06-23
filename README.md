@@ -14,7 +14,7 @@ Y data - activity types that subjects performed
 A full description of the data used in this project can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 # R script
-R script that does the cleaning and tidying of the data does the following:
+R script run_analysis.R that does the cleaning and tidying of the data does the following:
 
 - read test data
 
