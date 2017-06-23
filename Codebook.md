@@ -2,7 +2,7 @@
 
 The script Rtidydata.R executes the step defined in the project assignment:
 
-Read files and create test data sets
+# Read files and create test data sets
 
   Xtest    - set of test data which represent all measurements from all subjects
 
@@ -11,7 +11,7 @@ Read files and create test data sets
   SubTest  - set of subjects 
 
 
-Read train data and create train data sets:
+# Read train data and create train data sets:
 
   Xtrain
 
