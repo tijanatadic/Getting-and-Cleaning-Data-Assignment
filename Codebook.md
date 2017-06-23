@@ -38,9 +38,11 @@ From X data set we only take mean and standard measurements
 Give all activities in data set Y meaningfull names which are read from "activity_labels.txt" file
 
 Merge all data sets into one
+
     allData
 
 Create independent data set with the average of each variable for each activity and each subject
+
     aggData
 
 
