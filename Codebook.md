@@ -4,34 +4,34 @@ The script Rtidydata.R executes the step defined in the project assignment:
 
 1. Read files and create test data sets
 
-Xtest    - set of test data which represent all measurements from all subjects
+  Xtest    - set of test data which represent all measurements from all subjects
 
-Ytest    - set of test data which represent activities that subjects performed
+  Ytest    - set of test data which represent activities that subjects performed
 
-SubTest  - set of subjects 
+  SubTest  - set of subjects 
 
 
 2. Read train data and create train data sets:
 
-Xtrain
+  Xtrain
 
-Ytrain
+  Ytrain
 
-Subtrain
+  Subtrain
 
 3. Merge test and training data sets and create new data sets:
 
-Xsum
+  Xsum
 
-Ysum
+  Ysum
 
-Subsum
+  Subsum
 
 4. Columns in the resulting data sets are not labeled so in this step we give them meaningfull names: 
 
-For Subject and Activity data sets we assign values -> subject and activities respectively.
+    For Subject and Activity data sets we assign values -> subject and activities respectively.
 
-For X data set, we read column names from "features.txt" file.
+    For X data set, we read column names from "features.txt" file.
 
 5. From X data set we only take mean and standard measurements 
 
