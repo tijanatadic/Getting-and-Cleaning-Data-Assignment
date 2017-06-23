@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Project
 
-The script Rtidydata.R executes the step defined in the project assignment:
+The script Rtidydata.R executes the steps defined in the project assignment:
 
 Read files and create test data sets
 
