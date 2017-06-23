@@ -30,5 +30,5 @@ R script that does the cleaning and tidying of the data does the following:
 
 - create data set with the average of each variable  for each activity  and each subject
 
-
+The resultng data sets are written in the files: tidydata.txt and aggdata.txt
 
